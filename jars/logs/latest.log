@@ -1,0 +1,1487 @@
+[18:50:50] [Client thread/INFO]: Setting user: Player125
+[18:50:56] [Client thread/WARN]: Skipping bad option: lastServer:
+[18:50:57] [Client thread/INFO]: LWJGL Version: 2.9.4
+[18:50:58] [Client thread/INFO]: Reloading ResourceManager: Default
+[18:51:02] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:51:02] [Thread-2/INFO]: Initializing LWJGL OpenAL
+[18:51:02] [Thread-2/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:51:05] [Thread-2/INFO]: OpenAL initialized.
+[18:51:05] [Sound Library Loader/INFO]: Sound engine started
+[18:51:24] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[18:51:31] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[18:51:34] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[18:51:46] [Client thread/INFO]: Reloading ResourceManager: Default
+[18:51:49] [Client thread/INFO]: SoundSystem shutting down...
+[18:51:49] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:51:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:51:49] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[18:51:49] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:51:50] [Thread-6/INFO]: OpenAL initialized.
+[18:51:50] [Sound Library Loader/INFO]: Sound engine started
+[18:52:02] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[18:52:05] [Client thread/INFO]: Reloading ResourceManager: Default
+[18:52:08] [Client thread/INFO]: SoundSystem shutting down...
+[18:52:08] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:52:08] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:52:08] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[18:52:08] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:52:09] [Thread-8/INFO]: OpenAL initialized.
+[18:52:09] [Sound Library Loader/INFO]: Sound engine started
+[18:52:21] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[18:53:04] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[18:53:04] [Server thread/INFO]: Generating keypair
+[18:53:05] [Server thread/INFO]: Loaded 488 advancements
+[18:53:05] [Server thread/INFO]: Preparing start region for level 0
+[18:53:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:53:08] [Server thread/INFO]: Preparing spawn area: 14%
+[18:53:09] [Server thread/WARN]: Keeping entity minecraft:creeper that already exists with UUID 49880d0a-a83c-4b7e-b5aa-45ab134eb488
+[18:53:09] [Server thread/INFO]: Preparing spawn area: 49%
+[18:53:09] [Server thread/WARN]: Keeping entity minecraft:creeper that already exists with UUID 430d2329-5af7-49c5-bddd-2ca631461f06
+[18:53:09] [Server thread/WARN]: Keeping entity minecraft:zombie that already exists with UUID 8a9cb243-5e07-4be5-b89e-31e3963ed6ec
+[18:53:10] [Server thread/INFO]: Preparing spawn area: 83%
+[18:53:11] [Server thread/INFO]: Changing view distance to 2, from 10
+[18:53:14] [Server thread/INFO]: Player125[local:E:432298af] logged in with entity id 254 at (583.4781651983784, 70.0, 132.6038523096451)
+[18:53:14] [Server thread/INFO]: Player125 がゲームに参加しました
+[18:53:14] [Server thread/INFO]: Player125 は進捗 [ダイヤモンドで私を覆って] を達成した
+[18:53:16] [Server thread/INFO]: Saving and pausing game...
+[18:53:16] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[18:53:16] [Client thread/INFO]: [CHAT] Player125 は進捗 [ダイヤモンドで私を覆って] を達成した
+[18:53:16] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[18:53:16] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[18:53:18] [Client thread/INFO]: Loaded 54 advancements
+[18:54:30] [Client thread/INFO]: [CHAT] エンティティ「@e[type=minecraft:villagers,」は見つかりませんでした
+[18:54:45] [Server thread/INFO]: Player125 は奈落の底へ落ちた
+[18:54:45] [Server thread/INFO]: [Player125: Player125 をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: 矢師 をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: 矢師 をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クモ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ウィッチ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ウィッチ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ウィッチ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ウィッチ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: 武器鍛冶 をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ウサギ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ウサギ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ウサギ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: 村人ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: チェスト付きトロッコ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: イカ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: イカ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: イカ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: イカ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: イカ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: イカ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: イカ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: イカ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: イカ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: 村人ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: エンダーマン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クモ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.torch をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] Player125 は奈落の底へ落ちた
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] Player125 をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] 矢師 をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] 矢師 をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クモ をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] ウィッチ をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] ウィッチ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ウィッチ をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Server thread/INFO]: [Player125: クモ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: エンダーマン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: エンダーマン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: コウモリ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クモ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クモ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クモ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クリーパー をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: スケルトン をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: チェスト付きトロッコ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: クモ をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.torch をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Server thread/INFO]: [Player125: item.tile.gravel をキルしました]
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ウィッチ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] 武器鍛冶 をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ウサギ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ウサギ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ウサギ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] 村人ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] チェスト付きトロッコ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] イカ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] イカ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] イカ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] イカ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] イカ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] イカ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] イカ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] イカ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] イカ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] 村人ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] エンダーマン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クモ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.torch をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クモ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] エンダーマン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] エンダーマン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] コウモリ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クモ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クモ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クモ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クリーパー をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] スケルトン をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] チェスト付きトロッコ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] クモ をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.torch をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:54:45] [Client thread/INFO]: [CHAT] item.tile.gravel をキルしました
+[18:55:03] [Client thread/INFO]: Loaded 58 advancements
+[18:55:03] [Server thread/INFO]: Saving and pausing game...
+[18:55:03] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[18:55:03] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[18:55:03] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[18:55:07] [Server thread/INFO]: Saving and pausing game...
+[18:55:07] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[18:55:08] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[18:55:08] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[18:56:11] [Server thread/INFO]: Saving and pausing game...
+[18:56:11] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[18:56:11] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[18:56:11] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[18:58:31] [Server thread/INFO]: Saving and pausing game...
+[18:58:31] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[18:58:31] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[18:58:31] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[18:58:56] [Server thread/INFO]: Saving and pausing game...
+[18:58:56] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[18:58:56] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[18:58:56] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[18:59:36] [Server thread/INFO]: Player125 は進捗 [モンスターハンター] を達成した
+[18:59:36] [Client thread/INFO]: [CHAT] Player125 は進捗 [モンスターハンター] を達成した
+[18:59:36] [Client thread/INFO]: Loaded 68 advancements
+[18:59:41] [Server thread/INFO]: Saving and pausing game...
+[18:59:41] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[18:59:41] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[18:59:41] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:07:10] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:07:10] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:07:10] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:07:10] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:07:10] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:07:10] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:07:10] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:07:10] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:07:10] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:07:10] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:07:10] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:07:10] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:07:10] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:07:10] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:07:10] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:07:10] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:07:10] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:07:10] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:07:25] [Server thread/INFO]: Saving and pausing game...
+[19:07:25] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:07:25] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:07:25] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:07:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22359ms behind, skipping 447 tick(s)
+[19:13:20] [Server thread/INFO]: Saving and pausing game...
+[19:13:21] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:13:21] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:13:21] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:13:44] [Server thread/INFO]: Saving and pausing game...
+[19:13:44] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:13:44] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:13:44] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:14:42] [Server thread/INFO]: Saving and pausing game...
+[19:14:42] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:14:43] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:14:43] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:17:04] [Server thread/INFO]: Saving and pausing game...
+[19:17:04] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:17:04] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:17:04] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:17:40] [Server thread/INFO]: Saving and pausing game...
+[19:17:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:17:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:17:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:18:41] [Server thread/INFO]: Saving and pausing game...
+[19:18:41] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:18:41] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:18:41] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:19:01] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:19:01] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:19:01] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:19:01] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:19:42] [Server thread/INFO]: Saving and pausing game...
+[19:19:42] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:19:42] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:19:42] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:27:17] [Server thread/INFO]: Saving and pausing game...
+[19:27:17] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:27:17] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:27:17] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:27:18] [Server thread/INFO]: Changing difficulty to HARD, from NORMAL
+[19:27:34] [Server thread/INFO]: Saving and pausing game...
+[19:27:34] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:27:34] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:27:34] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:29:55] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:29:56] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:30:09] [Server thread/INFO]: Saving and pausing game...
+[19:30:09] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:30:09] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:30:09] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:30:13] [Server thread/INFO]: Changing view distance to 4, from 2
+[19:30:18] [Server thread/INFO]: Saving and pausing game...
+[19:30:18] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:30:18] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:30:18] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:31:12] [Server thread/INFO]: Saving and pausing game...
+[19:31:12] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:31:12] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:31:12] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:31:30] [Client thread/INFO]: [CHAT] day, night
+[19:31:31] [Client thread/INFO]: [CHAT] day, night
+[19:31:32] [Server thread/INFO]: [Player125: 時刻を 13000 に設定しました]
+[19:31:32] [Client thread/INFO]: [CHAT] 時刻を 13000 に設定しました
+[19:32:23] [Server thread/INFO]: Saving and pausing game...
+[19:32:23] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:32:23] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:32:23] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:33:32] [Server thread/INFO]: Saving and pausing game...
+[19:33:32] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:33:32] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:33:32] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:36:24] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:36:24] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:36:24] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:36:24] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:36:24] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:36:24] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:36:24] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:36:24] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[19:36:24] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:36:24] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:36:24] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:36:24] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:36:24] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:36:24] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:36:24] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:36:24] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[19:36:29] [Server thread/INFO]: [Player125: 時刻を 1000 に設定しました]
+[19:36:29] [Client thread/INFO]: [CHAT] 時刻を 1000 に設定しました
+[19:37:06] [Server thread/INFO]: [Player125: 対象が正常に召喚されました]
+[19:37:06] [Client thread/INFO]: [CHAT] 対象が正常に召喚されました
+[19:37:18] [Server thread/INFO]: Saving and pausing game...
+[19:37:18] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:37:18] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:37:18] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:38:50] [Server thread/INFO]: Saving and pausing game...
+[19:38:50] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:38:50] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:38:50] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[19:39:26] [Server thread/INFO]: Saving and pausing game...
+[19:39:27] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[19:39:27] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[19:39:27] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[20:01:48] [Client thread/INFO]: [CHAT] ［デバッグ］： 高度な情報：表示
+[20:01:49] [Client thread/INFO]: [CHAT] ［デバッグ］： チャンクの境界：表示
+[20:01:50] [Client thread/INFO]: [CHAT] ［デバッグ］： チャンクの境界：非表示
+[20:01:54] [Client thread/INFO]: [CHAT] ［デバッグ］： 当たり判定：表示
+[20:02:43] [Server thread/INFO]: Saving and pausing game...
+[20:02:43] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[20:02:44] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[20:02:44] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[20:04:37] [Server thread/INFO]: Saving and pausing game...
+[20:04:37] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[20:04:37] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[20:04:37] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[20:06:18] [Client thread/INFO]: [CHAT] /?, /advancement, /blockdata, /clear, /clone, /debug, /defaultgamemode, /difficulty, /effect, /enchant, /entitydata, /execute, /fill, /function, /gamemode, /gamerule, /give, /help, /kill, /locate, /me, /msg, /particle, /playsound, /publish, /recipe, /reload, /replaceitem, /say, /scoreboard, /seed, /setblock, /setworldspawn, /spawnpoint, /spreadplayers, /stats, /stopsound, /summon, /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger, /w, /weather, /worldborder, /xp
+[20:06:28] [Server thread/INFO]: [Player125] Player125 hi
+[20:06:28] [Client thread/INFO]: [CHAT] [Player125] Player125 hi
+[20:07:05] [Server thread/INFO]: [Player125: 時刻を 13000 に設定しました]
+[20:07:05] [Client thread/INFO]: [CHAT] 時刻を 13000 に設定しました
+[20:07:19] [Server thread/INFO]: [Player125: 対象が正常に召喚されました]
+[20:07:19] [Client thread/INFO]: [CHAT] 対象が正常に召喚されました
+[20:08:40] [Server thread/INFO]: Saving and pausing game...
+[20:08:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[20:08:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[20:08:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[20:09:28] [Server thread/INFO]: Saving and pausing game...
+[20:09:28] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[20:09:28] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[20:09:28] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[20:09:30] [Server thread/INFO]: Stopping server
+[20:09:30] [Server thread/INFO]: Saving players
+[20:09:30] [Server thread/INFO]: Player125 lost connection: 切断されました
+[20:09:30] [Server thread/INFO]: Player125 がゲームを退出しました
+[20:09:30] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:09:30] [Server thread/INFO]: Saving worlds
+[20:09:30] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[20:09:30] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[20:09:30] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[20:11:59] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[20:11:59] [Server thread/INFO]: Generating keypair
+[20:11:59] [Server thread/INFO]: Loaded 488 advancements
+[20:12:03] [Server thread/INFO]: Preparing start region for level 0
+[20:12:04] [Server thread/INFO]: Preparing spawn area: 12%
+[20:12:05] [Server thread/INFO]: Preparing spawn area: 19%
+[20:12:07] [Server thread/INFO]: Preparing spawn area: 42%
+[20:12:08] [Server thread/INFO]: Preparing spawn area: 50%
+[20:12:09] [Server thread/INFO]: Preparing spawn area: 59%
+[20:12:10] [Server thread/INFO]: Preparing spawn area: 68%
+[20:12:11] [Server thread/INFO]: Preparing spawn area: 77%
+[20:12:12] [Server thread/INFO]: Preparing spawn area: 86%
+[20:12:13] [Server thread/INFO]: Changing view distance to 4, from 10
+[20:12:14] [Server thread/INFO]: Player125[local:E:5e5dbc66] logged in with entity id 2564 at (-959.5, 4.0, -235.5)
+[20:12:14] [Server thread/INFO]: Player125 がゲームに参加しました
+[20:12:15] [Server thread/INFO]: Saving and pausing game...
+[20:12:15] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:12:18] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:12:18] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:12:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4277ms behind, skipping 85 tick(s)
+[20:12:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8729ms behind, skipping 174 tick(s)
+[20:12:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2606ms behind, skipping 52 tick(s)
+[20:13:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6869ms behind, skipping 137 tick(s)
+[20:13:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4507ms behind, skipping 90 tick(s)
+[20:13:29] [Server thread/INFO]: Saving and pausing game...
+[20:13:29] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:13:29] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:13:29] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:14:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2090ms behind, skipping 41 tick(s)
+[20:14:47] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.small_slime.jump
+[20:14:47] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.small_slime.squish
+[20:14:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2363ms behind, skipping 47 tick(s)
+[20:15:00] [Server thread/INFO]: Saving and pausing game...
+[20:15:01] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:15:01] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:15:01] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:17:39] [Server thread/INFO]: Saving and pausing game...
+[20:17:39] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:17:39] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:17:39] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:20:36] [Server thread/INFO]: Player125 は進捗 [モンスターハンター] を達成した
+[20:20:36] [Client thread/INFO]: [CHAT] Player125 は進捗 [モンスターハンター] を達成した
+[20:20:36] [Client thread/INFO]: Loaded 10 advancements
+[20:21:51] [Server thread/INFO]: Saving and pausing game...
+[20:21:51] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:21:51] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:21:51] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:21:53] [Server thread/INFO]: Changing difficulty to PEACEFUL, from NORMAL
+[20:21:54] [Server thread/INFO]: Saving and pausing game...
+[20:21:54] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:21:54] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:21:54] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:21:56] [Server thread/INFO]: Changing difficulty to NORMAL, from PEACEFUL
+[20:22:24] [Client thread/INFO]: Loaded 12 advancements
+[20:22:54] [Server thread/INFO]: [Player125: 羊飼い をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 羊飼い をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 道具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 道具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 道具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 道具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 武器鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 道具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 矢師 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 釣り人 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 武器鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 革細工師 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 武器鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 道具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 革細工師 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 道具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 釣り人 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 矢師 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 釣り人 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 革細工師 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 武器鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 羊飼い をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 道具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 革細工師 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 革細工師 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 羊飼い をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 羊飼い をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 革細工師 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 羊飼い をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 道具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 防具鍛冶 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 肉屋 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 司書 をキルしました]
+[20:22:54] [Client thread/INFO]: [CHAT] 羊飼い をキルしました
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Server thread/INFO]: [Player125: 革細工師 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Server thread/INFO]: [Player125: 聖職者 をキルしました]
+[20:22:54] [Client thread/INFO]: [CHAT] 羊飼い をキルしました
+[20:22:54] [Server thread/INFO]: [Player125: 製図家 をキルしました]
+[20:22:54] [Server thread/INFO]: [Player125: 無職 をキルしました]
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 道具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 道具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 道具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 道具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 武器鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 道具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 矢師 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 釣り人 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 武器鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 革細工師 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 武器鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 道具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 革細工師 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 道具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 釣り人 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 矢師 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 釣り人 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 革細工師 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 武器鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 羊飼い をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 道具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 革細工師 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 革細工師 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 羊飼い をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 羊飼い をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 革細工師 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 羊飼い をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 道具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 防具鍛冶 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 肉屋 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 司書 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 革細工師 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 聖職者 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 製図家 をキルしました
+[20:22:54] [Client thread/INFO]: [CHAT] 無職 をキルしました
+[20:23:19] [Server thread/INFO]: Saving and pausing game...
+[20:23:19] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:23:19] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:23:19] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:23:53] [Client thread/INFO]: Loaded 14 advancements
+[20:23:54] [Server thread/INFO]: Saving and pausing game...
+[20:23:54] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:23:54] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:23:54] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:25:51] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[20:25:57] [Client thread/INFO]: [CHAT] doMobLoot, doMobSpawning
+[20:25:57] [Client thread/INFO]: [CHAT] doMobLoot, doMobSpawning
+[20:25:59] [Server thread/INFO]: [Player125: ゲームルール doMobSpawning が false に変更されました]
+[20:25:59] [Client thread/INFO]: [CHAT] ゲームルール doMobSpawning が false に変更されました
+[20:26:00] [Server thread/INFO]: Saving and pausing game...
+[20:26:00] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:26:00] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:26:00] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:26:05] [Server thread/INFO]: Player125 は奈落の底へ落ちた
+[20:26:05] [Server thread/INFO]: [Player125: Player125 をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ゾンビ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ブタ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ニワトリ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: item.item.egg をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ニワトリ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: item.item.egg をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ロバ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ニワトリ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ニワトリ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ウシ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Client thread/INFO]: [CHAT] Player125 は奈落の底へ落ちた
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ロバ をキルしました]
+[20:26:05] [Client thread/INFO]: [CHAT] Player125 をキルしました
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ロバ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: item.item.egg をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: item.item.egg をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ニワトリ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ヒツジ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ニワトリ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ヒツジ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ウシ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:05] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[20:26:05] [Server thread/INFO]: [Player125: ウシ をキルしました]
+[20:26:05] [Client thread/INFO]: [CHAT] ゾンビ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ブタ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ニワトリ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] item.item.egg をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ニワトリ をキルしました
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Client thread/INFO]: [CHAT] item.item.egg をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ロバ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ニワトリ をキルしました
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ニワトリ をキルしました
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: item.item.carrots をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: ブタ をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: item.tile.torch をキルしました]
+[20:26:05] [Server thread/INFO]: [Player125: item.tile.torch をキルしました]
+[20:26:05] [Client thread/INFO]: [CHAT] ウシ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ロバ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ロバ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] item.item.egg をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] item.item.egg をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ニワトリ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ヒツジ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ニワトリ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] ヒツジ をキルしました
+[20:26:05] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] ウシ をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] ウシ をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] item.item.carrots をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] ブタ をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] item.tile.torch をキルしました
+[20:26:06] [Client thread/INFO]: [CHAT] item.tile.torch をキルしました
+[20:26:12] [Server thread/INFO]: Player125 は奈落の底へ落ちた
+[20:26:12] [Server thread/INFO]: [Player125: Player125 をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.chickenRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.feather をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.monsterPlacer をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: 経験値オーブ をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.chickenRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.egg をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.chickenRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.emerald をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.feather をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.chickenRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.egg をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.rottenFlesh をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.porkchopRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.chickenRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.feather をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.leather をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.leather をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.beefRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.leather をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.chickenRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.feather をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.muttonRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.muttonRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.tile.cloth.white をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.tile.cloth.white をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.leather をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.beefRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.beefRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.leather をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.porkchopRaw をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:12] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:12] [Client thread/INFO]: [CHAT] Player125 は奈落の底へ落ちた
+[20:26:12] [Client thread/INFO]: [CHAT] Player125 をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.chickenRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.feather をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.monsterPlacer をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] 経験値オーブ をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.chickenRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.egg をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.chickenRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.emerald をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.feather をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.chickenRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.egg をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.rottenFlesh をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.porkchopRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.chickenRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.feather をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.leather をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.leather をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.beefRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.leather をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.chickenRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.feather をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.muttonRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.muttonRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.tile.cloth.white をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.tile.cloth.white をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.leather をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.beefRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.beefRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.leather をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.porkchopRaw をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:12] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:17] [Server thread/INFO]: Player125 は奈落の底へ落ちた
+[20:26:17] [Server thread/INFO]: [Player125: Player125 をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] Player125 は奈落の底へ落ちた
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] Player125 をキルしました
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Server thread/INFO]: [Player125: スライム をキルしました]
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:17] [Client thread/INFO]: [CHAT] スライム をキルしました
+[20:26:23] [Server thread/INFO]: Player125 は奈落の底へ落ちた
+[20:26:23] [Server thread/INFO]: [Player125: Player125 をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Server thread/INFO]: [Player125: item.item.slimeball をキルしました]
+[20:26:23] [Client thread/INFO]: [CHAT] Player125 は奈落の底へ落ちた
+[20:26:23] [Client thread/INFO]: [CHAT] Player125 をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:23] [Client thread/INFO]: [CHAT] item.item.slimeball をキルしました
+[20:26:27] [Server thread/INFO]: Player125 は奈落の底へ落ちた
+[20:26:27] [Server thread/INFO]: [Player125: Player125 をキルしました]
+[20:26:27] [Client thread/INFO]: [CHAT] Player125 は奈落の底へ落ちた
+[20:26:27] [Client thread/INFO]: [CHAT] Player125 をキルしました
+[20:26:40] [Client thread/INFO]: Loaded 21 advancements
+[20:26:48] [Client thread/INFO]: [CHAT] doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle
+[20:26:51] [Server thread/INFO]: [Player125: ゲームルール doDaylightCycle が false に変更されました]
+[20:26:51] [Client thread/INFO]: [CHAT] ゲームルール doDaylightCycle が false に変更されました
+[20:26:56] [Server thread/INFO]: [Player125: 時刻を 1000 に設定しました]
+[20:26:56] [Client thread/INFO]: [CHAT] 時刻を 1000 に設定しました
+[20:27:20] [Server thread/INFO]: Saving and pausing game...
+[20:27:20] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:27:20] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:27:20] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:30:04] [Client thread/INFO]: Loaded 23 advancements
+[20:31:44] [Server thread/INFO]: [Player125: 時刻を 13000 に設定しました]
+[20:31:44] [Client thread/INFO]: [CHAT] 時刻を 13000 に設定しました
+[20:32:13] [Server thread/INFO]: Saving and pausing game...
+[20:32:13] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:32:13] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:32:13] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:33:53] [Server thread/INFO]: [Player125: Player125 に [スケルトンの頭蓋骨] を 1 個 与えました]
+[20:33:53] [Client thread/INFO]: [CHAT] Player125 に [スケルトンの頭蓋骨] を 1 個 与えました
+[20:34:31] [Server thread/INFO]: Saving and pausing game...
+[20:34:31] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:34:31] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:34:31] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:35:21] [Server thread/INFO]: Saving and pausing game...
+[20:35:21] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:35:21] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:35:21] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:35:46] [Server thread/INFO]: Saving and pausing game...
+[20:35:46] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:35:46] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:35:46] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:36:51] [Server thread/INFO]: Saving and pausing game...
+[20:36:51] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[20:36:51] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[20:36:51] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[20:54:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2984ms behind, skipping 59 tick(s)
+[23:02:14] [Server thread/INFO]: Saving and pausing game...
+[23:02:14] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[23:02:14] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[23:02:14] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[23:03:02] [Server thread/INFO]: Saving and pausing game...
+[23:03:02] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[23:03:02] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[23:03:02] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[23:04:09] [Server thread/INFO]: Saving and pausing game...
+[23:04:09] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[23:04:09] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[23:04:09] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[23:08:34] [Server thread/INFO]: Saving and pausing game...
+[23:08:34] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[23:08:34] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[23:08:34] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[23:09:57] [Server thread/INFO]: Saving and pausing game...
+[23:09:57] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[23:09:57] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[23:09:57] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[23:09:58] [Server thread/INFO]: Saving and pausing game...
+[23:09:58] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[23:09:58] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[23:09:58] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[23:47:50] [Server thread/INFO]: Stopping server
+[23:47:50] [Server thread/INFO]: Saving players
+[23:47:50] [Server thread/INFO]: Player125 lost connection: 切断されました
+[23:47:51] [Server thread/INFO]: Player125 がゲームを退出しました
+[23:47:51] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[23:47:51] [Server thread/INFO]: Saving worlds
+[23:47:51] [Server thread/INFO]: Saving chunks for level '新規ワールド'/overworld
+[23:47:51] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_nether
+[23:47:51] [Server thread/INFO]: Saving chunks for level '新規ワールド'/the_end
+[23:47:53] [Client thread/INFO]: Stopping!
+[23:47:53] [Client thread/INFO]: SoundSystem shutting down...
+[23:47:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
